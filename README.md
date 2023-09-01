@@ -1,7 +1,7 @@
 # OMCL_Core
 OMCL_Core 是从 [Oxygen Minecraft Launcher](https://github.com/Hill23333/OxygenMinecraftLauncher "Oxygen Minecraft Launcher") 里提取出关键代码，制作的 Minecraft 启动模块
 
-同样沿用MIT License ，给予开发者最大的宽泛！
+同样沿用 MIT License ，给予开发者最大的权力！
 
 同样，使用 OMCL_Core 或者从 OMCL_Core 里摘取出代码，**记得在鸣谢名单中注明 OMCL_Core ，以及作者！**
 
